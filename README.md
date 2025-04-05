@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishav</h1>
-<h3 align="center">Backend Developer | DevOps | ML/AI</h3>
+<h3 align="center">Backend Developer | ML/AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav-ish&label=Profile%20views&color=0e75b6&style=flat" alt="rishav-ish" /> </p>
 
