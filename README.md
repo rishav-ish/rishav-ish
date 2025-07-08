@@ -1,6 +1,6 @@
-# 👨‍💻 Rishav Kumar
-
 <div align="center">
+
+# 👋 Hi there, I'm Rishav Kumar! 👨‍💻
 
 **🚀 Software Engineer II** at Knowlarity | **⚡ Backend & ML/AI Engineer**
 
