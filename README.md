@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Rishav Kumar! 👨‍💻
 
-**🚀 Software Engineer II** at Knowlarity | **⚡ Backend & ML/AI Engineer**
+**🚀 Software Engineer II** at Gupshup | **⚡ Backend & ML/AI Engineer**
 
 Building scalable backend services and intelligent systems that handle high-throughput communication infrastructure.
 
@@ -114,7 +114,7 @@ I design and build robust backend systems that process **millions of voice/Call/
 
 ## 💼 Experience
 
-Currently working at **Knowlarity** as Software Engineer II, where I:
+Currently working at **Gupshup** as Software Engineer II, where I:
 
 - 🏗️ **Architect and maintain** high-performance backend services
 - 🤖 **Implement ML/AI solutions** for communication analytics  
