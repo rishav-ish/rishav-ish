@@ -16,7 +16,7 @@ Building scalable backend services and intelligent systems that handle high-thro
 
 ## 🎯 What I Do
 
-I design and build robust backend systems that process **millions of voice/SMS interactions daily**. My expertise spans distributed architecture, performance optimization, and machine learning applications. I specialize in creating intelligent systems using NLP and computer vision, while maintaining a focus on scalability and reliability.
+I design and build robust backend systems that process **millions of voice/Call/SMS interactions daily**. My expertise spans distributed architecture, performance optimization, and machine learning applications. I specialize in creating intelligent systems using NLP and computer vision, while maintaining a focus on scalability and reliability.
 
 **🔧 Core Focus Areas:**
 - 🚀 High-throughput backend services and APIs
@@ -53,8 +53,27 @@ I design and build robust backend systems that process **millions of voice/SMS i
 
 ### **ML/AI & Analytics**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **AI Tools & Frameworks**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=langchain&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### **Prompt Engineering & LLM Tools**
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=prompt&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-00FF00?style=for-the-badge&logo=rag&logoColor=black)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-FF6B6B?style=for-the-badge&logo=vector&logoColor=white)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-FF6B6B?style=for-the-badge&logo=fine-tuning&logoColor=white)
+![Chain of Thought](https://img.shields.io/badge/Chain_of_Thought-FF6B6B?style=for-the-badge&logo=chain&logoColor=white)
 
 ### **Monitoring & Observability**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -74,8 +93,19 @@ I design and build robust backend systems that process **millions of voice/SMS i
 ### **FlowPulse** 🔄
 > Alternative to Postman for scheduling APIs and creating automated workflows. A developer tool that streamlines API testing and workflow automation.
 
-### **High-Throughput Communication Platform** 📞
-> Scalable backend services handling millions of voice/SMS interactions with intelligent routing and analytics.
+---
+
+## 🛠️ Side Projects & Innovation
+
+### **Kura Remittance System** 💸
+> **Cross-border payment platform** - Modern remittance system for international money transfers with real-time tracking, competitive exchange rates, and secure blockchain integration.
+
+**Tech Stack:** Nest.js, PostgreSQL, Redis, AWS, Payment APIs, Blockchain, Cybrid, Stellar, Plaid
+
+### **Buyer Bazar** 🛒
+> **E-commerce marketplace platform** - B2B/B2C marketplace connecting buyers and sellers with intelligent product matching, real-time inventory management, and AI-powered recommendations.
+
+**Tech Stack:** Python, Django, React, MongoDB, MySql, AWS
 
 ---
 
