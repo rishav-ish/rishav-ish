@@ -6,6 +6,9 @@
 
 Building scalable backend services and intelligent systems that handle high-throughput communication infrastructure.
 
+*🔄 Technology-agnostic problem solver - I adapt to any stack, framework, or tool to bring innovative ideas to life.*
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumar05/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavkumar446@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/rishav-ish)
